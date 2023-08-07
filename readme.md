@@ -1,6 +1,4 @@
-## Web3 Bug Bounty Collection
-
-![Web3 Bug Bounty Collection](https://example.com/web3-bug-bounty-collection.png)
+### Web3 Bug Bounty Collection
 
 ## Introduction
 
