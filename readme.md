@@ -38,6 +38,12 @@ Bug bounties are initiatives set up by projects and organizations to incentivize
 - Bug Bounty Page: [https://hackerone.com/opensea?type=team](https://hackerone.com/opensea?type=team)
 - Rewards: Up to $3,000,000
 
+### Project Name: Uniswap
+
+- Website: [https://app.uniswap.org/](https://app.uniswap.org/#/swap)
+- Bug Bounty Page: [https://uniswap.org/bug-bounty](https://uniswap.org/bug-bounty)
+- Rewards: Up to $2,250,000
+
 ## How to Contribute
 
 If you know of any Web3 bug bounty programs that are independently hosted and offering substantial rewards (in the six-figure range), we encourage you to contribute to this collection! Follow these steps:
