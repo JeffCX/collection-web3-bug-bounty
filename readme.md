@@ -44,6 +44,30 @@ Bug bounties are initiatives set up by projects and organizations to incentivize
 - Bug Bounty Page: [https://uniswap.org/bug-bounty](https://uniswap.org/bug-bounty)
 - Rewards: Up to $2,250,000
 
+### Project Name: Aptos Foundation
+
+- Website: [https://aptosfoundation.org/](https://aptosfoundation.org/)
+- Bug Bounty Page: [https://github.com/aptos-labs/aptos-core/blob/main/SECURITY.md](https://github.com/aptos-labs/aptos-core/blob/main/SECURITY.md)
+- Rewards: Up to $1,000,000
+
+### Project Name: Pool Together
+
+- Website: [https://pooltogether.com/](https://pooltogether.com/)
+- Bug Bounty Page: [https://docs.pooltogether.com/security/bug-bounties](https://docs.pooltogether.com/security/bug-bounties)
+- Rewards: Up to $25,000
+
+### Project Name: Convex Finance
+
+- Website: [https://www.convexfinance.com/](https://www.convexfinance.com/)
+- Bug Bounty Page: [https://docs.convexfinance.com/convexfinance/faq/bug-bounties](https://docs.convexfinance.com/convexfinance/faq/bug-bounties)
+- Rewards: Up to $250,000
+
+### Project Name: Ethereum Foundation
+
+- Website: [https://ethereum.org/en/](https://ethereum.org/en/)
+- Bug Bounty Page: [https://ethereum.org/en/bug-bounty/](https://ethereum.org/en/bug-bounty/)
+- Rewards: Up to $250,000
+
 ## How to Contribute
 
 If you know of any Web3 bug bounty programs that are independently hosted and offering substantial rewards (in the six-figure range), we encourage you to contribute to this collection! Follow these steps:
@@ -53,7 +77,7 @@ If you know of any Web3 bug bounty programs that are independently hosted and of
 3. Add the relevant information about the bug bounty program to the `README.md` file in the following format:
 
 ```markdown
-### Project Name
+### Project Name: XXXX
 
 - Website: [https://example.com](https://example.com)
 - Bug Bounty Page: [https://example.com/bug-bounty](https://example.com/bug-bounty)
