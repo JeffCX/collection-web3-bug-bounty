@@ -25,6 +25,7 @@ Bug bounties are initiatives set up by projects and organizations to incentivize
 | [Convex Finance](https://www.convexfinance.com/)               | $250,000        | [Convex Finance Docs](https://docs.convexfinance.com/convexfinance/faq/bug-bounties)                |
 | [AAVE](https://aave.com/)                                      | $250,000        | [aave/bug-bounty](https://github.com/aave/bug-bounty#bug-bounty)                                    |
 | [Ethereum Foundation](https://ethereum.org/en/)                | $250,000        | [Bug Bounty Program](https://ethereum.org/en/bug-bounty/)                                           |
+| [Compound](https://compound.finance/)                          | $250,000        | [Compound Docs](https://docs.compound.finance/v2/security/#bug-bounty-program)                      |
 | [Pool Together](https://pooltogether.com/)                     | $25,000         | [Pool Together Docs](https://docs.pooltogether.com/security/bug-bounties)                           |
 
 ## How to Contribute
