@@ -14,59 +14,19 @@ Bug bounties are initiatives set up by projects and organizations to incentivize
 
 ## List of Bug Bounty Programs
 
-### Project Name: Stargate Finance
-
-- Website: [http://stargate.finance/](http://stargate.finance/)
-- Bug Bounty Page: [https://stargateprotocol.gitbook.io/stargate/bug-bounty/bug-bounty-program](https://stargateprotocol.gitbook.io/stargate/bug-bounty/bug-bounty-program)
-- Rewards: Up to $15,000,000
-
-### Project Name: Frax
-
-- Website: [https://frax.finance/](https://frax.finance/)
-- Bug Bounty Page: [https://docs.frax.finance/smart-contracts/miscellaneous](https://docs.frax.finance/smart-contracts/miscellaneous)
-- Rewards: Up to $10,000,000
-
-### Project Name: AAVE
-
-- Website: [https://aave.com/](https://aave.com/)
-- Bug Bounty Page: [https://github.com/aave/bug-bounty](https://github.com/aave/bug-bounty)
-- Rewards: Up to $250,000
-
-### Project Name: Opensea
-
-- Website: [https://opensea.io/](https://opensea.io/)
-- Bug Bounty Page: [https://hackerone.com/opensea?type=team](https://hackerone.com/opensea?type=team)
-- Rewards: Up to $3,000,000
-
-### Project Name: Uniswap
-
-- Website: [https://app.uniswap.org/](https://app.uniswap.org/#/swap)
-- Bug Bounty Page: [https://uniswap.org/bug-bounty](https://uniswap.org/bug-bounty)
-- Rewards: Up to $2,250,000
-
-### Project Name: Aptos Foundation
-
-- Website: [https://aptosfoundation.org/](https://aptosfoundation.org/)
-- Bug Bounty Page: [https://github.com/aptos-labs/aptos-core/blob/main/SECURITY.md](https://github.com/aptos-labs/aptos-core/blob/main/SECURITY.md)
-- Rewards: Up to $1,000,000
-
-### Project Name: Pool Together
-
-- Website: [https://pooltogether.com/](https://pooltogether.com/)
-- Bug Bounty Page: [https://docs.pooltogether.com/security/bug-bounties](https://docs.pooltogether.com/security/bug-bounties)
-- Rewards: Up to $25,000
-
-### Project Name: Convex Finance
-
-- Website: [https://www.convexfinance.com/](https://www.convexfinance.com/)
-- Bug Bounty Page: [https://docs.convexfinance.com/convexfinance/faq/bug-bounties](https://docs.convexfinance.com/convexfinance/faq/bug-bounties)
-- Rewards: Up to $250,000
-
-### Project Name: Ethereum Foundation
-
-- Website: [https://ethereum.org/en/](https://ethereum.org/en/)
-- Bug Bounty Page: [https://ethereum.org/en/bug-bounty/](https://ethereum.org/en/bug-bounty/)
-- Rewards: Up to $250,000
+| Project Name                                                   | Highest Bounty  | Link                                                                                                |
+|----------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------|
+| [Stargate Finance](http://stargate.finance/)                   | $15,000,000     | [Stargate Finance Docs](https://stargateprotocol.gitbook.io/stargate/bug-bounty/bug-bounty-program) |
+| [Frax Finance](https://frax.finance/)                          | $10,000,000     | [Frax Finance Docs](https://docs.frax.finance/smart-contracts/miscellaneous#frax-bug-bounty)        |
+| [Opensea](https://opensea.io/)                                 | $3,000,000      | [HackerOne](https://hackerone.com/opensea?type=team)                                                |
+| [Uniswap](https://app.uniswap.org/#/swap)                      | $2,250,000      | [Bug Bounty Program](https://uniswap.org/bug-bounty)                                                |
+| [Aptos Foundation](https://aptosfoundation.org/)               | $1,000,000      | [SECURITY.md](https://github.com/aptos-labs/aptos-core/blob/main/SECURITY.md#aptos-core-bug-bounty) |
+| [0x Protocol](https://0x.org/)                                 | $1,000,000      | [0x Protocol Docs](https://docs.0xprotocol.org/en/latest/additional/bounties.html#id1)              |
+| [Convex Finance](https://www.convexfinance.com/)               | $250,000        | [Convex Finance Docs](https://docs.convexfinance.com/convexfinance/faq/bug-bounties)                |
+| [AAVE](https://aave.com/)                                      | $250,000        | [aave/bug-bounty](https://github.com/aave/bug-bounty#bug-bounty)                                    |
+| [Ethereum Foundation](https://ethereum.org/en/)                | $250,000        | [Bug Bounty Program](https://ethereum.org/en/bug-bounty/)                                           |
+| [Compound](https://compound.finance/)                          | $250,000        | [Compound Docs](https://docs.compound.finance/v2/security/#bug-bounty-program)                      |
+| [Pool Together](https://pooltogether.com/)                     | $25,000         | [Pool Together Docs](https://docs.pooltogether.com/security/bug-bounties)                           |
 
 ## How to Contribute
 
@@ -77,14 +37,10 @@ If you know of any Web3 bug bounty programs that are independently hosted and of
 3. Add the relevant information about the bug bounty program to the `README.md` file in the following format:
 
 ```markdown
-### Project Name: XXXX
-
-- Website: [https://example.com](https://example.com)
-- Bug Bounty Page: [https://example.com/bug-bounty](https://example.com/bug-bounty)
-- Rewards: Up to $X,XXX,XXX
+| [Project Name](https://project-homepage.com) | $X,XXX,XXX | [Link Description](https://project-homepage.com/bug-bounty) |
 ```
 
-4. Make sure the information is accurate and up-to-date.
+4. Make sure the information is accurate and up-to-date. Entries are sorted by highest bounty in descending order.
 5. Create a pull request to merge your changes into the main repository.
 
 Please ensure that all the bug bounty programs listed here are legitimate and adhere to responsible disclosure practices.
